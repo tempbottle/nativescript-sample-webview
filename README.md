@@ -1,4 +1,4 @@
-#NativeScript VewbView Sample
+#NativeScript WebView Sample
 
 The WebView sample demonstrates the usage of the WebView Widget. The example is built with the [the NativeScript framework](http://www.nativescript.org).
 
