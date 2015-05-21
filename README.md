@@ -1,6 +1,6 @@
-#NativeScript DialogsResult Sample
+#NativeScript VewbView Sample
 
-The DialogsResult sample, demonstrates the return value of a NativeScript dialog. The example is built with the [the NativeScript framework](http://www.nativescript.org).
+The WebView sample demonstrates the usage of the WebView Widget. The example is built with the [the NativeScript framework](http://www.nativescript.org).
 
 ## Running the sample
 
@@ -20,4 +20,4 @@ For convenience you can use the `run.sh`/`run.bat` scripts on a \*NIX/windows en
 
 For \*NIX systems the following script runs the sample directly:
 
-`curl https://raw.githubusercontent.com/ErjanGavalji/nativescript-sample-dialog-result/master/run.sh | bash`
+`curl https://raw.githubusercontent.com/ErjanGavalji/nativescript-sample-webview/master/run.sh | bash`
