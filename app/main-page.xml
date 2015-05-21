@@ -1,0 +1,8 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded">
+  <StackLayout>
+    <Label text="Url to load" />
+    <Button text="Load" tap="{{ loadAction }}" />
+    <TextField text="{{ newUrl }}" textWrap="false"/>
+    <WebView url="{{ url }}" width="*" height="380"/>
+  </StackLayout>
+</Page>
